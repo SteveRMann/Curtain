@@ -1,0 +1,14 @@
+# .gitignore file
+
+*.tmp
+*.psd
+git.txt
+WIP/
+Curtain/
+Curtain8/
+Curtain8a/
+Curtain8aOTA/
+Curtain8bOTA/
+Drip4/
+*.zip
+*.sch
